@@ -14,7 +14,7 @@ exports.config = {
   //suites testes
   suites: {
     loginpage: ['spec/specLogin.js'],
-    homepage: ['spec/specCadastroParceiro.js'],
+    homepage: ['spec/specCadastro.js'],
   },
 
 
