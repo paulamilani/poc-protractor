@@ -3,7 +3,7 @@ describe('Login', function () {
   it('login', function () {
     browser.get('url');
     //interargir com elementos da página
-    var button = element(by.id('btnChoosePagseguro')).click();
+    var button = element(by.id('btn')).click();
     var login = element(by.id('login')).sendKeys('user');
     var password = element(by.id('password')).sendKeys('senha');
     var button = element(by.id('btnEntrar')).click();

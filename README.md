@@ -1,4 +1,4 @@
-#salesforce-protractor
+#poc-protractor
 
 # install npm
 npm install -g protractor
